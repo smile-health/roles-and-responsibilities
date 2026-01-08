@@ -229,12 +229,3 @@ Users with this role are restricted from logging in to the SMILE system on the W
 | Third Party | Integrates and synchronises real-time data via API only. (API Only) |
 
 ---
-
-## Revision History
-
-> **Internal Use Only**  
-> This content is not intended for publication in the live environment.
-
-| Date | Change Description | Author | Status |
-|------|-------------------|--------|--------|
-| 16 Apr 2025 | Updated on the planned initial Role. Ready to Review by SA. | PM | Done |
