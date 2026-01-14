@@ -1,6 +1,6 @@
 # Roles and Responsibilities
 
-_Last updated: 16 Apr 2025_
+_Last updated: 14 Jan 2026_
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -55,8 +55,9 @@ Full access to all features and functions in SMILE, including creating transacti
 2. Master Data  
 3. Inventory  
 4. Order  
-5. Transaction  
-6. Inventory Tracking  
+5. Transaction
+6. Disposal
+7. Inventory Tracking  
 
 ### Platform Access
 Web Access.
@@ -84,8 +85,9 @@ Full access to all operational functionalities (Transaction, Order, etc.) on all
 2. Master Data  
 3. Inventory  
 4. Order  
-5. Transaction  
-6. Inventory Tracking  
+5. Transaction
+6. Disposal
+7. Inventory Tracking  
 
 ### Platform Access
 Web Access.
@@ -111,8 +113,9 @@ Limited to performing operational business processes, such as handling transacti
 ### Services Accessible
 1. Inventory  
 2. Order  
-3. Transaction  
-4. Inventory Tracking  
+3. Transaction
+4. Disposal
+5. Inventory Tracking  
 
 ### Platform Access
 Web Access & Mobile Access.
@@ -138,8 +141,9 @@ Limited to performing operational business processes, such as handling transacti
 ### Services Accessible
 1. Inventory  
 2. Order  
-3. Transaction  
-4. Inventory Tracking  
+3. Transaction
+4. Disposal
+5. Inventory Tracking  
 
 ### Platform Access
 Mobile Access.
