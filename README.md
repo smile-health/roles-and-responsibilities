@@ -13,7 +13,6 @@ _Last updated: 14 Jan 2026_
   - [Vendor IoT](#vendor-iot)
   - [Third Party](#third-party)
 - [Role Differences](#role-differences)
-- [Revision History](#revision-history)
 
 ---
 
