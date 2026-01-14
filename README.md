@@ -2,6 +2,9 @@
 
 _Last updated: 14 Jan 2026_
 
+## About
+This document purpose to provide information about user roles (Role-Based Access Control) and responsibilities in **SMILE**
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [User Roles and Permissions](#user-roles-and-permissions)
